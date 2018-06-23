@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/soubhagya/Desktop/Dev/pychain"
+set -gx VIRTUAL_ENV "/home/soubhagya/Desktop/Dev/blockchain"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

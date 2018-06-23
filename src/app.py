@@ -1,5 +1,6 @@
 blockchain = []
-open_transaction =[]
+
+
 def get_last_blockchain_value():
     if len(blockchain) < 1:
         return None
